@@ -4,8 +4,8 @@
 
 # Desafio HTML dia 08/08/2023
 
-[x] Adicionar as imagens
-[x] Criar os pontos de navegação
-[x] Criar a navegação entre os arquivos
-[x] Criar as listas
-[x] Finalizar projeto
+- [x] Adicionar as imagens
+- [x] Criar os pontos de navegação
+- [x] Criar a navegação entre os arquivos
+- [x] Criar as listas
+- [x] Finalizar projeto
