@@ -9,3 +9,7 @@
 - [x] Criar a navegação entre os arquivos
 - [x] Criar as listas
 - [x] Finalizar projeto
+
+# Estudo dia 09/08/2023
+
+Hoje aprendi sobre tabelas no HTML, daqui a pouco vamos aprender a como personalizar com o CSS, que será de suma importância para o uso do Front End
