@@ -13,3 +13,7 @@
 # Estudo dia 09/08/2023
 
 Hoje aprendi sobre tabelas no HTML, daqui a pouco vamos aprender a como personalizar com o CSS, que será de suma importância para o uso do Front End
+
+# Estudo dia 10/08/2023
+
+Hoje aprendi sobre meta e como utilizar em diferentes hipóteses
