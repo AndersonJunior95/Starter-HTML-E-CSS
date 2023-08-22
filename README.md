@@ -57,3 +57,31 @@ Conecta um elemento HTML com o CSS
 * ID Selector `#box, #container`
 * Class Selector `.red, .m-4`
 * Attribute selector, Pseudo-class, Pseudo-element, e outros
+
+# DIA 21/08/2023
+
+Semana passada foi uma semana corrida e não consegui estudar mas essa semana eu consigo...
+
+* Tamanho (largura x altura): width e height, respectivamente
+* Conteúdo: o content
+* Bordas: o border
+* Preenchimento interno: o padding
+* Espaços fora da caixa: a margin
+
+# Adicionando CSS
+
+## Inline
+
+* atributo `style`
+
+## <style>
+
+* tag html que irá conter o css
+
+## <link>
+
+* arquivo css externo
+
+## @import
+
+* arquivo css externo

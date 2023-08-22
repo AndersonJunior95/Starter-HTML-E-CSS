@@ -1,0 +1,10 @@
+@import 'https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap';
+
+h1 {
+    color: blue;
+    font-family: 'Roboto', Arial;
+}
+
+strong {
+    color: red;
+}
