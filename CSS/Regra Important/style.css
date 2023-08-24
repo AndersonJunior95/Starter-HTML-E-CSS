@@ -1,0 +1,16 @@
+#my-tittle,
+#my-tittle strong {
+    color: gray;
+}
+
+.tittle {
+    color: red;
+}
+
+h1 {
+    color: blue !important;
+}
+
+* {
+    color: green;
+}
