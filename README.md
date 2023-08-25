@@ -193,3 +193,23 @@ Bora lá para mais um dia de estudo
 ## Propriedades que aceitam shorthand
 
 animation, background, border, border-bottom, border-color, border-left, border-radius, border-right, border-style, border-top, border-width, column-rule, columns, flex, flex-flow, font, grid, grid-area, grid-column, grid-row, grid template, list-style, margin, offset, outline, overflow, padding, place, content, place items, place self, text decoration, transition
+
+# Estudo dia 24/08/2023
+
+Hoje o dia foi exaustivo mas bora pra cima
+
+# Funções
+
+* nome seguido de bre e fecha parentesis
+* recebe argumentos
+
+## Exemplos
+
+```css
+
+@import url("http://urlaqui.com/style.css");
+
+{
+    color: rgb(255,0,100);
+    width: calc(100% - 10px);
+}
