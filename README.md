@@ -213,3 +213,24 @@ Hoje o dia foi exaustivo mas bora pra cima
     color: rgb(255,0,100);
     width: calc(100% - 10px);
 }
+```
+# Vendor Prefixes
+
+Permite que browsers adicione `features` a fim ce colocar em uso alguma novidade que vemos no css
+
+# Exemplo
+
+```css
+
+p {
+	-webkit-background-clip: text; /*Chrome, Safari, iOS e Android*/
+	-moz-background-clip: text; /* Mozilla (Firefox) */
+	-ms-background-clip: text; /* Internet Explorer ou Edge*/
+	-o-background-clip: text; /* Opera */
+}
+```
+
+# Consultas
+
+[http://ireade.github.io/wich-vendor-prefix/]
+[http://caniuse.com]
